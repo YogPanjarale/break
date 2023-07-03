@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "svelte.svelte-vscode",
+        "ardenivanov.svelte-intellisense",
+        "pivaszbs.svelte-autoimport",
+        "melihaltintas.svelte-format",
+        "bradlc.vscode-tailwindcss"
+    ]
+}
