@@ -16,7 +16,7 @@
             </h1>
             <h1 class="my-2 text-4xl font-bold text-center font-poppins">{time}</h1>
 
-        <p class="mt-2 text-center blur-sm font-robot font-light text-stone-600 hover:blur-none">Hope You are haveing a good time ⏰⏳</p>
+        <p class="mt-2 text-center blur-sm font-robot font-light text-stone-600 hover:blur-none">Hope You are having a good time ⏰⏳</p>
         </div>
     </div>
     <!-- footer with absolute position -->
